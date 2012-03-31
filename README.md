@@ -7,7 +7,7 @@ r[-@I>(/)& |-|e®£! ¥a|^|`|2ʁ!
 
 4dede +hi5 1in3 +0 your 4ff1i(a+ions 93mfi13:
 
-    gem '31337'
+    gem 'E1337'
 
 ande then 3x3cyut3:
 
@@ -15,7 +15,7 @@ ande then 3x3cyut3:
 
 0r inz0rz+411 i+ jooour53|ph 4s:
 
-    $ gem install 31337
+    $ gem install E1337
 
 ## Usage
 
